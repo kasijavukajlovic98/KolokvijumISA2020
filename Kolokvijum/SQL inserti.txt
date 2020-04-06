@@ -1,0 +1,12 @@
+insert into korisnik values(0, "Kasija1", "vukajlovic1");
+insert into korisnik values(0, "Kasija2", "vukajlovic2");
+insert into korisnik values(0, "Kasija3", "vukajlovic3");
+insert into karta values(0, '1222-02-02 00:00:00', 1); 
+insert into karta values(0, '1222-02-02 00:00:00', 2); 
+insert into karta values(0, '1222-02-02 00:00:00', 3); 
+insert into sediste values(0, 1, 1, 1);
+insert into sediste values(0, 2, 2, 2);
+insert into sediste values(0, 3, 3, 3);
+insert into tip_sedista values(0, "sed1", 1);
+insert into tip_sedista values(0, "sed2", 2);
+insert into tip_sedista values(0, "sed3", 3);
